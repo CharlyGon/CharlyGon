@@ -23,8 +23,11 @@ Mi meta a corto plazo es adquirir las habilidades necesarias para desempeñarme 
 
 📧 Puedes contactarme a través de mi correo electrónico [fernandez-gonza@hotmail.com.com]<span id="emailLink">tucorreo@gmail.com</span>
 
-🔗 También puedes encontrarme en <a href="https://www.linkedin.com/in/tuperfillinkedin/" target="_blank">LinkedIn</a></p>
+🔗 También puedes encontrarme en <a href="https://www.linkedin.com/in/gonzalo-nicolas-fernandez/" target="_blank">LinkedIn</a></p>
 
+
+
+<hr/>
 <script>
 document.getElementById("emailLink").addEventListener("click", function() {
   var tempInput = document.createElement("input");
@@ -36,8 +39,6 @@ document.getElementById("emailLink").addEventListener("click", function() {
   alert("¡Dirección de correo electrónico copiada al portapapeles!");
 });
 </script>
-
-<hr/>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
