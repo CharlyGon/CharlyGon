@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Gonzalo Fernández</h1>
 
-![aboutMe](https://github.com/CharlyGon/CharlyGon/assets/89945170/753d1690-bfc8-4fd8-bb57-2e2ac7cdb504)
+![aboutMe](https://github.com/CharlyGon/CharlyGon/assets/89945170/1af2912a-98ba-4dc5-a9cb-38f09262795e)
 
 <hr>
 
