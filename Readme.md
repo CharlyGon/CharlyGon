@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Gonzalo Fernández</h1>
+<h1 align="center">¡Hola! 👋 Soy Gonzalo Fernández</h1>
 
 ![aboutMe](https://github.com/CharlyGon/CharlyGon/assets/89945170/1af2912a-98ba-4dc5-a9cb-38f09262795e)
 
@@ -6,19 +6,24 @@
 
 <h3 align="center">¿Qué estoy aprendiendo ahora?</h3>
 
-📚 Actualmente estoy aprendiendo sobre el desarrollo de aplicaciones web con React y Redux.
+📚 Actualmente estoy aprendiendo sobre el desarrollo de aplicaciones web con Astro y Tailwindccs.
 
 📚 Además, estoy explorando el universo de Go (Golang). La elegancia y la eficiencia de este lenguaje me han cautivado, y estoy ansioso por descubrir las posibilidades que ofrece en el desarrollo de aplicaciones.
 
-¿Qué estoy buscando?
-🚀Estoy buscando oportunidades para aplicar mis habilidades y conocimientos en proyectos emocionantes. Si tienes un proyecto interesante en mente o estás buscando un desarrollador para unirse a tu equipo, ¡me encantaría saber de ti!
+<h3 align="center">¿Qué estoy buscando?</h3>
 
-Objetivo: Convertirme en un desarrollador Fullstack
+🚀 Estoy buscando oportunidades para aplicar mis habilidades y conocimientos en proyectos emocionantes. Si tienes un proyecto interesante en mente o estás buscando un desarrollador para unirse a tu equipo, ¡me encantaría saber de ti!
+
+<h3 align="center">Objetivo:</h3>
+
+Convertirme en un desarrollador Fullstack.
 Mi meta a corto plazo es adquirir las habilidades necesarias para desempeñarme como desarrollador fullstack. Estoy comprometido a explorar y dominar las tecnologías tanto del frontend como del backend para poder crear soluciones completas e innovadoras.
 
-¿Cómo puedes contactarme?
-📧 Puedes contactarme a través de mi correo electrónico
-🔗 También puedes encontrarme en LinkedIn
+<h3 align="center">¿Cómo puedes contactarme?</h3>
+
+📧 Puedes contactarme a través de mi correo electrónico [fernandez-gonza@hotmail.com.com](mailto:fernandez-gonza@hotmail.com)
+
+🔗 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/)
 
 <hr/>
 
