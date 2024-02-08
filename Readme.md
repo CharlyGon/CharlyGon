@@ -80,7 +80,7 @@ completas e innovadoras.
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
     </a>
     <a href="https://www.astro.build/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/astro/astro-icon.svg" alt="astro" width="40" height="40" />
+        <img src="https://logosandtypes.com/wp-content/uploads/2023/03/astro-framework.svg" alt="astro" width="40" height="40" />
 </div>
 
 <div align="left">
