@@ -21,9 +21,21 @@ Mi meta a corto plazo es adquirir las habilidades necesarias para desempeñarme 
 
 <h3 align="center">¿Cómo puedes contactarme?</h3>
 
-📧 Puedes contactarme a través de mi correo electrónico [fernandez-gonza@hotmail.com.com](mailto:fernandez-gonza@hotmail.com)
+📧 Puedes contactarme a través de mi correo electrónico [fernandez-gonza@hotmail.com.com]<span id="emailLink">tucorreo@gmail.com</span>
 
-🔗 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/)
+🔗 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/) {:target="_blank"}
+
+<script>
+document.getElementById("emailLink").addEventListener("click", function() {
+  var tempInput = document.createElement("input");
+  tempInput.value = "tucorreo@gmail.com";
+  document.body.appendChild(tempInput);
+  tempInput.select();
+  document.execCommand("copy");
+  document.body.removeChild(tempInput);
+  alert("¡Dirección de correo electrónico copiada al portapapeles!");
+});
+</script>
 
 <hr/>
 
