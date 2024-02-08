@@ -61,7 +61,6 @@ completas e innovadoras.
 </div>
 
 <hr>
-
 <h3 align="left">Technologies: </h3>
 <div align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -81,6 +80,7 @@ completas e innovadoras.
     </a>
     <a href="https://www.astro.build/" target="_blank" rel="noreferrer">
         <img src="https://logosandtypes.com/wp-content/uploads/2023/03/astro-framework.svg" alt="astro" width="40" height="40" />
+    </a>
 </div>
 
 <div align="left">
@@ -125,13 +125,9 @@ completas e innovadoras.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gonzalo-nicolas-fernandez/" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="gonzalo-nicolas-fernandez" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-nicolas-fernandez" height="30" width="40" />
     </a>
     <a href="https://gonzalofernandez.netlify.app/" target="blank">
-        <img align="center"
-            src="https://w7.pngwing.com/pngs/357/433/png-transparent-computer-icons-website-web-design-logo-grey-thumbnail.png"
-            alt="gonzalo-nicolas-fernandez" height="50" width="50" />
+        <img align="center" src="https://w7.pngwing.com/pngs/357/433/png-transparent-computer-icons-website-web-design-logo-grey-thumbnail.png" alt="gonzalo-nicolas-fernandez" height="50" width="50" />
     </a>
 </p>
