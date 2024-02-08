@@ -23,7 +23,7 @@ Mi meta a corto plazo es adquirir las habilidades necesarias para desempeñarme 
 
 📧 Puedes contactarme a través de mi correo electrónico [fernandez-gonza@hotmail.com.com]<span id="emailLink">tucorreo@gmail.com</span>
 
-🔗 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/) {:target="_blank"}
+🔗 También puedes encontrarme en <a href="https://www.linkedin.com/in/tuperfillinkedin/" target="_blank">LinkedIn</a></p>
 
 <script>
 document.getElementById("emailLink").addEventListener("click", function() {
