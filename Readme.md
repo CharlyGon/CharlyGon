@@ -130,4 +130,11 @@ completas e innovadoras.
             alt="gonzalo-nicolas-fernandez" height="30" width="40" />
     </a>
 </p>
-<p>📫 fernandez-gonza@gmail.com </p>
+
+<p align="left">
+    <a href="https://gonzalofernandez.netlify.app/" target="blank">
+        <img align="center"
+            src="https://w7.pngwing.com/pngs/357/433/png-transparent-computer-icons-website-web-design-logo-grey-thumbnail.png"
+            alt="gonzalo-nicolas-fernandez" height="30" width="40" />
+    </a>
+</p>
