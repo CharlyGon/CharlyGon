@@ -129,12 +129,9 @@ completas e innovadoras.
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="gonzalo-nicolas-fernandez" height="30" width="40" />
     </a>
-</p>
-
-<p align="left">
     <a href="https://gonzalofernandez.netlify.app/" target="blank">
         <img align="center"
             src="https://w7.pngwing.com/pngs/357/433/png-transparent-computer-icons-website-web-design-logo-grey-thumbnail.png"
-            alt="gonzalo-nicolas-fernandez" height="30" width="40" />
+            alt="gonzalo-nicolas-fernandez" height="50" width="50" />
     </a>
 </p>
