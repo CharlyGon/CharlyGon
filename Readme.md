@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Gonzalo Fernández</h1>
+<h1 align="center">¡Hola! 👋 Soy Gonza</h1>
 
 ![aboutMe](https://github.com/CharlyGon/CharlyGon/assets/89945170/1af2912a-98ba-4dc5-a9cb-38f09262795e)
 
@@ -25,7 +25,7 @@ completas e innovadoras.
 
 <h3 align="center">¿Cómo puedes contactarme?</h3>
 
-📧 Puedes contactarme a través de mi correo electrónico
+📫 Puedes contactarme a través de mi correo electrónico
 [fernandez-gonza@hotmail.com.com](mailto:fernandez-gonza@hotmail.com)
 
 🔗 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/)
@@ -36,6 +36,21 @@ completas e innovadoras.
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> </p>
+            <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" /> </a> </p>
+            <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+            width="40" height="40" /> </a> </p>
+            <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /> </a> </p>
+            <p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"
+            width="40" height="40" /> </a> </p>
+            <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
+            height="40" /> </a> </p>
 <hr>
 
 <h3 align="left">Technologies: </h3>
