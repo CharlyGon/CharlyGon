@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Gonza</h1>
 
-![aboutMe](https://github.com/CharlyGon/CharlyGon/assets/89945170/1af2912a-98ba-4dc5-a9cb-38f09262795e)
+![fondo Git](https://github.com/CharlyGon/CharlyGon/assets/89945170/ef6283dc-53d4-4b80-affa-175f2a5ee183)
 
 <hr>
 
