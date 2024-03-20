@@ -15,9 +15,9 @@ y estoy ansioso por descubrir las posibilidades que ofrece en el desarrollo de a
 
 🚀 ¡Explorando Nuevas Fronteras! Soy un desarrollador apasionado, siempre en búsqueda de proyectos desafiantes que me permitan aplicar y expandir mi conjunto de habilidades. Con experiencia sólida en el desarrollo backend y fortaleciendo mi dominio en React para el frontend, estoy listo para aportar valor a tu equipo y proyectos. ¿Tienes una visión que necesita ser construida? ¡Hablemos!
 
-<h3 align="center">Mi Misión</h3>
+<h3 align="center">Enfoque Profesional</h3>
 
-Ascender a Desarrollador Fullstack. Con un fuerte fundamento en tecnologías backend y una creciente experiencia en React, Astro , CSS y Tailwind, mi objetivo es consolidar mis habilidades para ofrecer soluciones integrales e innovadoras. Estoy en un camino continuo de aprendizaje y mejora, comprometido a convertirme en un experto en el espectro completo del desarrollo web.
+Busco consolidar mis habilidades en tecnologías backend y frontend para ofrecer soluciones integrales e innovadoras. Estoy comprometido con un continuo proceso de aprendizaje y mejora, con la determinación de convertirme en un experto en todas las áreas del desarrollo web.
 
 <h3 align="center">¿Cómo puedes contactarme?</h3>
 
