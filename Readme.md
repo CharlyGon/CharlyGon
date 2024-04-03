@@ -60,4 +60,3 @@ Si tienes una visión o proyecto en mente que crees que puedo ayudar a realizar,
     <a href="https://www.etheruem.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40" /></a>
 </div>
 
-<hr>
