@@ -4,27 +4,20 @@
 
 <hr>
 
-<h3 align="center">¿Qué estoy aprendiendo ahora?</h3>
+Soy Gonzalo, un desarrollador backend apasionado por crear soluciones innovadoras y eficientes. Mi viaje en el mundo del desarrollo de software comenzó con el firme propósito de resolver problemas complejos mediante el código, lo que me llevó a especializarme en tecnologías como Node.js, TypeScript y MongoDB. A lo largo de mi carrera, he tenido la oportunidad de trabajar en una variedad de proyectos, lo que me ha permitido adaptarme y aprender diferentes lenguajes y marcos de trabajo.
 
-📚 Actualmente estoy aprendiendo sobre el desarrollo de aplicaciones web con Astro y Tailwindccs.
+Recientemente, mi curiosidad me ha llevado a explorar el mundo del desarrollo frontend, sumergiéndome en React. Esta nueva aventura está expandiendo mi conjunto de habilidades, permitiéndome construir aplicaciones web más completas e interactivas.
 
-📚 Además, estoy explorando el universo de Go (Golang). La elegancia y la eficiencia de este lenguaje me han cautivado,
-y estoy ansioso por descubrir las posibilidades que ofrece en el desarrollo de aplicaciones.
+Me considero una persona perseverante, con una gran capacidad de adaptación. Estoy constantemente en búsqueda de nuevos desafíos que me permitan crecer tanto profesional como personalmente. Creo firmemente en el aprendizaje continuo y en la importancia de mantenerse al tanto de las últimas tendencias y tecnologías en el desarrollo de software.
 
-<h3 align="center">En Búsqueda de Innovación</h3>
+Si tienes una visión o proyecto en mente que crees que puedo ayudar a realizar, no dudes en contactarme. Estoy abierto a colaborar en proyectos desafiantes que me permitan aplicar y expandir mi conjunto de habilidades.
 
-🚀 ¡Explorando Nuevas Fronteras! Soy un desarrollador apasionado, siempre en búsqueda de proyectos desafiantes que me permitan aplicar y expandir mi conjunto de habilidades. Con experiencia sólida en el desarrollo backend y fortaleciendo mi dominio en React para el frontend, estoy listo para aportar valor a tu equipo y proyectos. ¿Tienes una visión que necesita ser construida? ¡Hablemos!
 
-<h3 align="center">Enfoque Profesional</h3>
+<h3 align="left">📫 Puedes contactarme:</h3>
 
-Busco consolidar mis habilidades en tecnologías backend y frontend para ofrecer soluciones integrales e innovadoras. Estoy comprometido con un continuo proceso de aprendizaje y mejora, con la determinación de convertirme en un experto en todas las áreas del desarrollo web.
-
-<h3 align="center">¿Cómo puedes contactarme?</h3>
-
-📫 Puedes contactarme a través de mi correo electrónico
-[fernandez-gonza@hotmail.com.com](mailto:fernandez-gonza@hotmail.com)
-
-🔗 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/)
+📫 **Mail:** fernandez-gonza@hotmail.com  
+🔗 **LinkedIn:** [Gonzalo Nicolás Fernández](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/)  
+🌐 **Sitio Web:** [https://gonzalofernandez.netlify.app](https://gonzalofernandez.netlify.app)
 
 <hr>
 
@@ -65,11 +58,3 @@ Busco consolidar mis habilidades en tecnologías backend y frontend para ofrecer
 </div>
 
 <hr>
-
-<h3 align="left">Conéctate conmigo:</h3>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/gonzalo-nicolas-fernandez/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-nicolas-fernandez" height="30" width="40" />
-    </a>
-</p>
