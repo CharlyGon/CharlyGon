@@ -4,6 +4,8 @@
 
 <hr>
 
+# 💫 Sobre mí:
+
 Soy Gonzalo, un desarrollador backend apasionado por crear soluciones innovadoras y eficientes. Mi viaje en el mundo del desarrollo de software comenzó con el firme propósito de resolver problemas complejos mediante el código, lo que me llevó a especializarme en tecnologías como Node.js, TypeScript y MongoDB. A lo largo de mi carrera, he tenido la oportunidad de trabajar en una variedad de proyectos, lo que me ha permitido adaptarme y aprender diferentes lenguajes y marcos de trabajo.
 
 Recientemente, mi curiosidad me ha llevado a explorar el mundo del desarrollo frontend, sumergiéndome en React. Esta nueva aventura está expandiendo mi conjunto de habilidades, permitiéndome construir aplicaciones web más completas e interactivas.
@@ -13,7 +15,7 @@ Me considero una persona perseverante, con una gran capacidad de adaptación. Es
 Si tienes una visión o proyecto en mente que crees que puedo ayudar a realizar, no dudes en contactarme. Estoy abierto a colaborar en proyectos desafiantes que me permitan aplicar y expandir mi conjunto de habilidades.
 
 
-<h3 align="left">📫 Puedes contactarme:</h3>
+# 📫 Puedes contactarme:
 
 📫 **Mail:** fernandez-gonza@hotmail.com  
 🔗 **LinkedIn:** [Gonzalo Nicolás Fernández](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/)  
