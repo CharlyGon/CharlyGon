@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Gonzalo Fernández</h1>
 
 <p align="center">
-  <img src="https://github.com/CharlyGon/CharlyGon/assets/89945170/3a06b5a7-540c-4fc0-ab4b-d5aa7e1436e9" alt="Fondo Git" width="800">
+  <img src="https://github.com/CharlyGon/CharlyGon/blob/main/Gonzalo%20Fern%C3%A1ndez%20Git.png?raw=true" alt="Fondo Git" width="800">
 </p>
 
 ---
