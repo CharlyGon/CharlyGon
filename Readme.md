@@ -22,9 +22,7 @@ Si tienes un proyecto desafiante en mente, estaré encantado de colaborar.
 ## 🛠 Tecnologías Principales
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs&perline=6" />
-  </a>
 </p>
 
 ---
@@ -32,9 +30,7 @@ Si tienes un proyecto desafiante en mente, estaré encantado de colaborar.
 ## 🗄 Herramientas y Bases de Datos
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,prisma,express,github,linux,mongodb,mysql,postman,redux,tailwind,vscode" />
-  </a>
 </p>
 
 ---
