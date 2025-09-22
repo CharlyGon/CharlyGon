@@ -33,7 +33,7 @@ Si tienes un proyecto desafiante en mente, estaré encantado de colaborar.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,prisma,dynamodb,express,github,linux,nginx,mongodb,mysql,postman,redux,tailwind,vscode,kubernetes&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,prisma,express,github,linux,mongodb,mysql,postman,redux,tailwind,vscode" />
   </a>
 </p>
 
@@ -42,17 +42,19 @@ Si tienes un proyecto desafiante en mente, estaré encantado de colaborar.
 ## 🌍 Contáctame
 
 <p align="center">
+  <!-- Email -->
   <a href="mailto:fernandez-gonza@hotmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2c53f7d7-633b-4a6d-8d6a-77d0f6c1e58f.png" alt="email" height="50" width="50" />
+    <img align="center" src="https://img.icons8.com/fluency/48/new-post.png" alt="email" height="50" width="50" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gonzalo-nicolas-fernandez/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="https://github.com/CharlyGon" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980129-df79a17c-51d3-4e4b-9bf2-5b98c2a7cbb8.png" alt="github" height="50" width="50" />
-  </a>
+
+  <!-- Portafolio -->
   <a href="https://gonzalofernandez.netlify.app" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982081-708c4da3-9981-44d5-a98c-1f29c5d5ed0e.png" alt="portfolio" height="50" width="50" />
+    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="50" width="50" />
   </a>
 </p>
 
