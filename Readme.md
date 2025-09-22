@@ -8,65 +8,23 @@
 
 ## 🚀 Sobre mí
 
-Soy **desarrollador backend** con más de 3 años de experiencia creando soluciones robustas y escalables.
+Soy **desarrollador backend** con más de 3 años de experiencia creando soluciones robustas y escalables.  
 Mi especialidad es trabajar con **Node.js** y **TypeScript**, desarrollando APIs y microservicios, aplicando **Clean Code**, **SOLID** y buenas prácticas para garantizar calidad y mantenibilidad.
 
-Me apasiona optimizar procesos y crear productos que realmente aporten valor.
+Me apasiona optimizar procesos y crear productos que realmente aporten valor.  
 Actualmente estoy explorando el desarrollo frontend con **React** y **Next.js** para complementar mi visión full-stack y ofrecer soluciones más completas.
 
-Siempre busco aprender y mantenerme actualizado con las últimas tecnologías.
+Siempre busco aprender y mantenerme actualizado con las últimas tecnologías.  
 Si tienes un proyecto desafiante en mente, estaré encantado de colaborar.
 
 ---
 
-## 🛠 Tecnologías Principales
+## 🛠 Stack Tecnológico
 
+<!-- tech stack icons -->
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="NestJS" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-## 🗄 Herramientas y Bases de Datos
-
-<p align="center">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,prisma,dynamodb,express,figma,redis,github,html,css,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,kubernetes&perline=12" />
   </a>
 </p>
 
@@ -74,9 +32,20 @@ Si tienes un proyecto desafiante en mente, estaré encantado de colaborar.
 
 ## 🌍 Contáctame
 
-📧 **Email:** fernandez-gonza@hotmail.com  
-💼 **LinkedIn:** [Gonzalo Nicolás Fernández](https://www.linkedin.com/in/gonzalo-nicolas-fernandez/)  
-🌐 **Portafolio:** [gonzalofernandez.netlify.app](https://gonzalofernandez.netlify.app)
+<p align="center">
+  <a href="mailto:fernandez-gonza@hotmail.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2c53f7d7-633b-4a6d-8d6a-77d0f6c1e58f.png" alt="email" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/gonzalo-nicolas-fernandez/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://github.com/CharlyGon" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980129-df79a17c-51d3-4e4b-9bf2-5b98c2a7cbb8.png" alt="github" height="50" width="50" />
+  </a>
+  <a href="https://gonzalofernandez.netlify.app" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982081-708c4da3-9981-44d5-a98c-1f29c5d5ed0e.png" alt="portfolio" height="50" width="50" />
+  </a>
+</p>
 
 ---
 
