@@ -19,12 +19,21 @@ Si tienes un proyecto desafiante en mente, estaré encantado de colaborar.
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🛠 Tecnologías Principales
 
-<!-- tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,prisma,dynamodb,express,figma,redis,github,html,css,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,kubernetes&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs&perline=6" />
+  </a>
+</p>
+
+---
+
+## 🗄 Herramientas y Bases de Datos
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,prisma,dynamodb,express,github,linux,nginx,mongodb,mysql,postman,redux,tailwind,vscode,kubernetes&perline=9" />
   </a>
 </p>
 
